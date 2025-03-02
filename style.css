@@ -36,6 +36,9 @@ body {
     transition: 0.3s;
     background: rgba(184, 184, 185, 0.5);
 }
+.child:hover{
+    color: aliceblue;
+}
 .child i {
     font-size: 30px;
     margin-right: 15px;
